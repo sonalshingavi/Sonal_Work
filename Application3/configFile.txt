@@ -1,0 +1,23 @@
+agentHost = 10.97.247.37
+agentPort = 8079
+agentAuth =
+agentUsername =
+agentPassword=
+agentSSL=
+truststorePath=
+truststorePassword=
+keystorePath=
+keystorePassword=
+domain=DomainE31
+domainDesc =
+appSpace = AppE31
+appSpaceDesc =
+appNode = NodeE31
+appNodeDesc =
+httpPort = 8591
+osgiPort
+profile
+deployToAdmin = true
+redeploy
+backup
+backupLocation
